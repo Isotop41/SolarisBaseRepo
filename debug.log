@@ -1,0 +1,876 @@
+[0921/155616.119:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/155616.129:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/155718.101:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/155718.106:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/155727.266:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/155727.270:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/155727.606:WARNING:backend_impl.cc(1759)] Destroying invalid entry.
+[0921/155849.780:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/155849.784:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/155940.406:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/155940.411:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/155946.759:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/155946.763:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/160013.633:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/160013.636:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/160014.732:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:00:14 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160014.920:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:00:14 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160014.920:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:00:14 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160014.929:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:00:14 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160014.944:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:00:14 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160015.640:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:00:15 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160015.646:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/160015.659:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:00:15 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160016.014:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:00:16 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160334.854:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/160334.859:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/160335.803:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:03:35 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160335.906:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:03:35 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160335.907:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:03:35 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160335.914:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:03:35 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160335.919:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:03:35 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160336.598:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:03:36 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160336.602:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/160336.614:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:03:36 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160337.100:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:03:37 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160548.823:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/160548.828:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/160549.774:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:05:49 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160549.886:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:05:49 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160549.887:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:05:49 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160549.894:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:05:49 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160549.900:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:05:49 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160550.585:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:05:50 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160550.590:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/160550.599:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:05:50 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160551.072:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:05:51 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160801.469:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/160801.472:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/160803.302:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:08:03 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160803.413:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:08:03 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160803.414:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:08:03 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160803.423:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:08:03 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160803.426:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:08:03 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160804.135:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:08:04 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160804.142:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/160804.159:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:08:04 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/160804.591:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:08:04 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161155.279:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/161155.284:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/161156.613:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:11:56 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161156.716:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:11:56 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161156.716:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:11:56 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161156.725:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:11:56 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161156.731:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:11:56 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161157.409:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:11:57 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161157.414:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/161157.424:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:11:57 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161157.902:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:11:57 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161223.543:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/161223.547:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/161224.900:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:12:24 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161225.027:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:12:25 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161225.027:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:12:25 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161225.035:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:12:25 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161225.041:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:12:25 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161225.685:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:12:25 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161225.691:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/161225.702:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:12:25 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161226.196:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:12:26 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161258.859:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/161258.862:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/161300.054:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:13:00 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161300.162:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:13:00 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161300.163:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:13:00 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161300.172:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:13:00 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161300.178:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:13:00 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161300.903:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:13:00 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161300.909:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/161300.921:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:13:00 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161301.320:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:13:01 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161305.449:INFO:CONSOLE(888)] "Error: Illegal theme name!", source: http://localhost:6969/assets/index-37431c3a.js (888)
+[0921/161310.588:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:13:10 PM] ```lua
+function print(string): ()
+```
+----------
+Prints all provided values to the output.
+
+[Learn More](https://create.roblox.com/docs/reference/engine/globals/LuaGlobals#print)", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161318.594:INFO:CONSOLE(888)] "Error: Illegal theme name!", source: http://localhost:6969/assets/index-37431c3a.js (888)
+[0921/161433.170:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/161433.174:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/161434.379:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:14:34 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161434.505:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:14:34 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161434.506:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:14:34 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161434.515:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:14:34 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161434.524:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:14:34 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161435.165:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:14:35 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161435.170:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/161435.180:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:14:35 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161435.665:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:14:35 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161444.208:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:14:44 PM] ```lua
+function print(string): ()
+```
+----------
+Prints all provided values to the output.
+
+[Learn More](https://create.roblox.com/docs/reference/engine/globals/LuaGlobals#print)", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161547.009:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/161547.012:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/161548.123:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:48 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161548.228:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:48 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161548.229:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:48 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161548.239:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:15:48 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161548.249:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:48 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161548.935:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:48 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161548.940:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/161548.956:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:48 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161549.407:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:49 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161553.704:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/161553.708:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/161554.729:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:54 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161554.831:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:54 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161554.831:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:54 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161554.838:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:15:54 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161554.845:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:54 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161555.535:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:55 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161555.540:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/161555.551:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:55 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161556.043:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:15:56 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161734.786:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/161734.790:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/161735.896:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:17:35 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161736.058:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:17:36 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161736.059:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:17:36 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161736.066:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:17:36 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161736.071:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:17:36 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161736.810:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:17:36 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161736.818:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/161736.837:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:17:36 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/161737.190:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:17:37 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/162512.823:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/162512.827:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/162513.883:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:25:13 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/162513.984:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:25:13 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/162513.985:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:25:13 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/162513.993:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:25:13 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/162513.997:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:25:13 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/162514.659:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:25:14 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/162514.664:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/162514.673:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:25:14 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/162515.172:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:25:15 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/163758.036:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/163758.042:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/163758.159:INFO:component_installer.cc(309)] Failed to verify installation for Widevine Content Decryption Module (C:\Users\Owner\AppData\Local\CEF\User Data\WidevineCdm\4.10.2830.0).: The system cannot find the path specified. (0x3)
+[0921/163758.303:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0921/163759.938:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:37:59 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/163800.097:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:38:00 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/163800.098:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:38:00 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/163800.107:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:38:00 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/163800.114:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:38:00 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/163800.711:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:38:00 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/163800.717:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/163800.727:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:38:00 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/163801.215:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:38:01 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/164103.619:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/164103.625:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/164103.749:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0921/164104.744:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:41:04 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/164104.867:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:41:04 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/164104.867:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:41:04 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/164104.875:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 4:41:04 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/164104.884:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:41:04 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/164105.524:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:41:05 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/164105.530:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/164105.540:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:41:05 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/164106.050:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:41:06 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/164106.051:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 4:41:06 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170623.139:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/170623.144:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/170623.248:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0921/170624.247:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:06:24 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170624.348:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:06:24 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170624.348:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:06:24 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170624.356:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 5:06:24 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170624.361:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:06:24 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170625.016:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:06:25 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170625.022:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/170625.032:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:06:25 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170625.561:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:06:25 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170625.561:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:06:25 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170720.639:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/170720.643:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/170720.736:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0921/170721.750:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:21 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170721.844:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:21 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170721.845:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:21 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170721.853:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 5:07:21 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170721.858:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:21 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170722.539:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:22 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170722.544:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/170722.563:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:22 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170723.068:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:23 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170723.068:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:23 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170739.017:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/170739.022:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/170739.133:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0921/170740.331:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:40 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170740.424:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:40 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170740.425:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:40 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170740.436:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 5:07:40 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170740.441:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:40 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170741.106:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:41 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/170741.112:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/170741.122:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:07:41 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171001.829:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/171001.834:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/171001.949:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0921/171002.931:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:10:02 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171003.032:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:10:03 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171003.033:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:10:03 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171003.039:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 5:10:03 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171003.047:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:10:03 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171003.727:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:10:03 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171003.733:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/171003.743:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:10:03 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171004.269:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:10:04 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171004.270:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:10:04 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171141.784:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/171141.788:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/171141.912:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0921/171143.214:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:11:43 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171143.324:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:11:43 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171143.325:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:11:43 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171143.333:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 5:11:43 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171143.337:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:11:43 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171144.010:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:11:44 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171144.016:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/171144.031:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:11:44 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171144.488:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:11:44 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171209.710:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/171209.716:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/171209.855:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0921/171211.113:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:12:11 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171211.216:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:12:11 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171211.217:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:12:11 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171211.228:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 5:12:11 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171211.237:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:12:11 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171211.936:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:12:11 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171211.941:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/171211.951:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:12:11 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171212.410:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:12:12 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171327.488:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/171327.492:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/171327.608:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0921/171328.588:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:13:28 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171328.680:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:13:28 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171328.680:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:13:28 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171328.689:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 5:13:28 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171328.696:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:13:28 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171329.399:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:13:29 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171329.405:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/171329.414:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:13:29 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171329.916:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:13:29 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171427.948:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/171427.953:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/171428.046:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0921/171429.018:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:29 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171429.112:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:29 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171429.113:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:29 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171429.121:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 5:14:29 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171429.127:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:29 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171429.806:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:29 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171429.815:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/171429.829:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:29 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171430.335:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:30 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171452.252:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0921/171452.258:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0921/171452.384:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0921/171453.513:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:53 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171453.608:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:53 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171453.609:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:53 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171453.620:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 5:14:53 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171453.624:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:53 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171454.327:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:54 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171454.331:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0921/171454.346:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:54 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0921/171454.799:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 5:14:54 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111507.937:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/111508.007:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/111508.602:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/111508.798:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/111510.850:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:10 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111511.177:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:11 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111511.181:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:11 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111511.222:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:15:11 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111511.229:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:11 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111511.678:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:11 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111511.696:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/111511.708:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:11 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111511.973:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:11 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111551.200:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/111551.204:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/111551.304:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/111552.384:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:52 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111552.541:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:52 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111552.543:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:52 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111552.550:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:15:52 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111552.557:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:52 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111553.269:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:53 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111553.277:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/111553.288:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:53 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111553.681:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:15:53 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111839.230:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/111839.234:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/111839.333:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/111840.368:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:18:40 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111840.464:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:18:40 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111840.464:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:18:40 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111840.473:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:18:40 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111840.480:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:18:40 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111841.257:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:18:41 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111841.262:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/111841.278:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:18:41 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/111841.680:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:18:41 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112236.887:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/112236.892:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/112237.008:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/112238.247:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:22:38 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112238.355:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:22:38 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112238.356:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:22:38 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112238.364:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:22:38 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112238.373:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:22:38 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112239.045:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:22:39 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112239.050:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/112239.059:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:22:39 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112239.552:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:22:39 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112324.458:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/112324.463:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/112324.563:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/112325.560:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:25 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112325.680:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:25 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112325.681:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:25 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112325.688:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:23:25 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112325.695:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:25 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112326.371:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:26 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112326.375:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/112326.390:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:26 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112326.867:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:26 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112332.567:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/112332.572:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/112332.676:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/112333.675:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:33 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112333.765:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:33 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112333.765:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:33 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112333.774:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:23:33 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112333.780:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:33 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112334.519:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:34 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112334.524:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/112334.532:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:34 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/112335.007:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:23:35 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113424.509:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/113424.514:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/113424.619:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/113440.883:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/113440.889:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/113440.991:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/113512.633:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/113512.637:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/113512.739:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/113514.072:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:35:14 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113514.168:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:35:14 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113514.168:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:35:14 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113514.177:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:35:14 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113514.184:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:35:14 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113514.935:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:35:14 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113514.942:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/113514.959:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:35:14 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113515.358:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:35:15 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113604.785:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/113604.790:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/113604.908:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/113605.933:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:36:05 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113606.070:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:36:06 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113606.070:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:36:06 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113606.081:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:36:06 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113606.091:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:36:06 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113606.771:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:36:06 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113606.776:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/113606.786:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:36:06 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113607.244:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:36:07 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113801.350:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/113801.354:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/113801.360:WARNING:alloy_browser_main.cc(156)] Unhandled app relaunch; implement CefBrowserProcessHandler::OnAlreadyRunningAppRelaunch.
+[0922/113801.370:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/113805.351:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/113805.355:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/113805.358:WARNING:alloy_browser_main.cc(156)] Unhandled app relaunch; implement CefBrowserProcessHandler::OnAlreadyRunningAppRelaunch.
+[0922/113805.365:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/113818.635:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/113818.640:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/113818.742:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/113819.789:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:38:19 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113819.906:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:38:19 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113819.907:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:38:19 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113819.917:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:38:19 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113819.926:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:38:19 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113820.600:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:38:20 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113820.605:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/113820.615:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:38:20 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113821.079:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:38:21 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113911.654:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/113911.658:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/113911.812:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/113912.839:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:12 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113912.957:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:12 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113912.957:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:12 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113912.967:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:39:12 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113912.976:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:12 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113913.665:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:13 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113913.671:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/113913.682:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:13 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113914.122:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:14 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113915.261:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:15 AM] ```lua
+string (19 bytes)
+```", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113934.892:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/113934.897:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/113935.000:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/113936.324:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:36 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113936.443:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:36 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113936.444:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:36 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113936.452:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:39:36 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113936.459:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:36 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113937.172:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:37 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113937.177:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/113937.187:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:37 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/113937.621:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:39:37 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114000.003:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/114000.009:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/114000.113:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/114001.099:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:01 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114001.210:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:01 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114001.211:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:01 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114001.217:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:40:01 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114001.226:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:01 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114001.898:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:01 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114001.904:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/114001.922:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:01 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114002.422:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:02 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114026.733:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/114026.743:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/114026.888:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/114027.966:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:27 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114028.067:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:28 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114028.068:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:28 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114028.075:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:40:28 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114028.083:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:28 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114028.763:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:28 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114028.767:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/114028.777:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:28 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114029.285:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:40:29 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114153.316:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/114153.322:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/114153.436:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/114154.542:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:41:54 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114154.679:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:41:54 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114154.680:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:41:54 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114154.690:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:41:54 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114154.699:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:41:54 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114155.403:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:41:55 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114155.410:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/114155.423:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:41:55 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114155.828:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:41:55 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114451.061:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/114451.066:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/114451.176:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/114452.279:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:44:52 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114452.407:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:44:52 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114452.408:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:44:52 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114452.418:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:44:52 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114452.427:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:44:52 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114453.078:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:44:53 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114453.083:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/114453.094:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:44:53 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114453.536:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:44:53 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114535.871:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/114535.875:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/114535.971:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/114536.944:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:36 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114537.038:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:37 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114537.038:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:37 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114537.047:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:45:37 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114537.052:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:37 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114537.750:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:37 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114537.756:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/114537.765:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:37 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114538.257:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:38 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114545.692:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/114545.697:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/114545.790:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/114546.825:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:46 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114546.919:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:46 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114546.920:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:46 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114546.930:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:45:46 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114546.934:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:46 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114547.667:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:47 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114547.672:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/114547.691:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:47 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114548.130:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:45:48 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114617.874:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/114617.879:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/114617.996:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/114619.020:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:46:19 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114619.152:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:46:19 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114619.153:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:46:19 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114619.166:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:46:19 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114619.170:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:46:19 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114619.876:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:46:19 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114619.880:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/114619.897:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:46:19 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114620.338:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:46:20 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114837.367:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/114837.372:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/114837.472:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/114838.519:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:48:38 AM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114838.668:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:48:38 AM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114838.669:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:48:38 AM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114838.681:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 11:48:38 AM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114838.691:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:48:38 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114839.334:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:48:39 AM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114839.339:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/114839.349:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:48:39 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/114839.812:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 11:48:39 AM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120851.216:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/120851.221:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/120851.332:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/120852.387:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:08:52 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120852.505:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:08:52 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120852.506:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:08:52 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120852.514:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:08:52 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120852.519:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:08:52 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120853.182:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:08:53 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120853.187:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/120853.200:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:08:53 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120853.696:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:08:53 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120941.441:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/120941.446:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/120941.541:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/120942.795:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:09:42 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120942.912:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:09:42 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120942.912:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:09:42 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120942.921:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:09:42 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120942.930:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:09:42 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120943.625:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:09:43 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120943.631:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/120943.647:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:09:43 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/120944.111:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:09:44 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/121951.657:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/121951.671:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/121951.976:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/121953.434:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:19:53 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/121953.561:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:19:53 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/121953.561:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:19:53 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/121953.569:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:19:53 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/121953.574:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:19:53 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/121954.259:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:19:54 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/121954.274:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/121954.292:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:19:54 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/121954.647:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:19:54 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122123.051:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/122123.058:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/122123.170:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/122124.200:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:21:24 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122124.315:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:21:24 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122124.316:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:21:24 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122124.327:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:21:24 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122124.338:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:21:24 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122124.976:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:21:24 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122124.981:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/122125.000:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:21:24 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122125.520:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:21:25 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122246.084:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/122246.089:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/122246.188:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/122247.229:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:22:47 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122247.323:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:22:47 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122247.324:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:22:47 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122247.333:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:22:47 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122247.339:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:22:47 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122248.047:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:22:48 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122248.052:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/122248.062:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:22:48 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122248.558:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:22:48 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122819.207:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/122819.212:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/122819.324:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/122820.406:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:28:20 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122820.539:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:28:20 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122820.540:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:28:20 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122820.549:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:28:20 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122820.554:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:28:20 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122821.182:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:28:21 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122821.186:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/122821.203:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:28:21 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122931.826:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/122931.831:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/122931.972:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/122933.244:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:29:33 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122933.387:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:29:33 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122933.388:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:29:33 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122933.396:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:29:33 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122933.406:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:29:33 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122934.222:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:29:34 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122934.231:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/122934.243:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:29:34 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122934.503:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:29:34 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/122934.503:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:29:34 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123402.652:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/123402.656:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/123402.769:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/123403.865:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:34:03 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123403.968:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:34:03 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123403.969:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:34:03 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123403.977:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:34:03 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123403.984:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:34:03 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123404.633:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:34:04 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123404.640:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/123404.656:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:34:04 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123405.166:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:34:05 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123813.164:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/123813.169:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/123813.278:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/123814.275:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:38:14 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123814.393:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:38:14 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123814.394:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:38:14 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123814.403:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:38:14 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123814.407:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:38:14 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123815.077:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:38:15 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123815.081:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/123815.092:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:38:15 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/123815.592:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:38:15 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124514.278:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/124514.287:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/124514.536:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/124515.560:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:45:15 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124515.671:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:45:15 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124515.671:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:45:15 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124515.681:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:45:15 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124515.688:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:45:15 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124516.329:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:45:16 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124516.344:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/124516.354:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:45:16 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124516.830:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:45:16 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124707.939:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/124707.943:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/124708.056:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/124709.087:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:47:09 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124709.187:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:47:09 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124709.188:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:47:09 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124709.196:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 12:47:09 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124709.204:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:47:09 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124709.836:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:47:09 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/124709.841:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/124709.858:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 12:47:09 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/141425.470:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/141425.475:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/141425.581:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/141427.102:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:14:27 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/141427.241:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:14:27 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/141427.241:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:14:27 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/141427.253:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 2:14:27 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/141427.263:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:14:27 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/141427.947:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:14:27 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/141427.952:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/141427.968:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:14:27 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/141428.333:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:14:28 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142732.628:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/142732.633:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/142732.760:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/142733.984:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:33 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142734.102:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:34 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142734.103:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:34 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142734.113:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 2:27:34 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142734.119:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:34 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142734.769:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:34 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142734.774:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/142734.784:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:34 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142735.270:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:35 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142745.861:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/142745.866:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/142745.986:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/142747.284:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:47 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142747.416:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:47 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142747.417:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:47 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142747.426:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 2:27:47 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142747.433:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:47 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142748.129:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:48 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142748.135:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/142748.151:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:48 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/142748.602:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:27:48 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144106.567:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/144106.571:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/144106.679:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/144107.667:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:07 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144107.785:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:07 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144107.786:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:07 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144107.794:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 2:41:07 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144107.799:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:07 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144108.455:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:08 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144108.459:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/144108.469:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:08 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144108.985:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:08 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144121.400:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/144121.404:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/144121.517:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/144122.629:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:22 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144122.730:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:22 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144122.731:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:22 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144122.740:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 2:41:22 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144122.744:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:22 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144123.422:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:23 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144123.426:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/144123.437:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:23 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144123.938:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:41:23 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144340.026:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/144340.031:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/144340.144:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/144341.121:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:41 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144341.216:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:41 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144341.217:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:41 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144341.227:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 2:43:41 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144341.234:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:41 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144341.893:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:41 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144341.899:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/144341.915:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:41 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144351.545:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/144351.550:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/144351.650:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/144352.686:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:52 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144352.776:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:52 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144352.776:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:52 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144352.784:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 2:43:52 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144352.789:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:52 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144353.437:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:53 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144353.442:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/144353.452:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:53 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/144353.998:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:43:53 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/145334.231:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0922/145334.236:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0922/145334.351:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0922/145335.334:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:53:35 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/145335.431:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:53:35 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/145335.431:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:53:35 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/145335.440:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 2:53:35 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/145335.446:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:53:35 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/145336.137:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:53:36 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/145336.143:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0922/145336.160:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:53:36 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0922/145336.658:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 2:53:36 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201424.922:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0923/201424.935:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0923/201425.286:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/201426.958:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:26 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201427.081:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:27 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201427.081:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:27 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201427.085:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 8:14:27 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201427.091:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:27 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201427.728:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:27 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201427.743:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0923/201427.761:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:27 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201453.039:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0923/201453.050:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0923/201453.221:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/201454.313:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:54 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201454.413:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:54 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201454.414:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:54 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201454.422:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 8:14:54 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201454.428:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:54 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201455.193:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:55 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201455.199:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0923/201455.215:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:55 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/201455.598:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:14:55 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/202236.754:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0923/202236.759:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0923/202236.873:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/202237.918:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:22:37 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/202238.016:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:22:38 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/202238.016:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:22:38 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/202238.026:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 8:22:38 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/202238.035:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:22:38 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/202238.798:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:22:38 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/202238.803:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0923/202238.819:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:22:38 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/202239.232:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 8:22:39 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/210816.351:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0923/210816.384:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0923/210817.460:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/210817.576:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/210817.790:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/210817.921:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/210819.625:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:08:19 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/210819.738:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:08:19 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/210819.739:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:08:19 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/210819.739:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 9:08:19 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/210819.750:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:08:19 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/210820.414:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:08:20 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/210820.429:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0923/210820.450:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:08:20 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/210820.890:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:08:20 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/210820.890:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:08:20 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/211806.441:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0923/211806.455:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0923/211806.606:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/211807.592:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:18:07 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/211807.684:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:18:07 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/211807.684:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:18:07 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/211807.692:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 9:18:07 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/211807.698:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:18:07 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/211808.389:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:18:08 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/211808.394:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0923/211808.404:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:18:08 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212111.511:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0923/212111.516:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0923/212111.640:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/212112.601:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:21:12 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212112.696:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:21:12 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212112.696:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:21:12 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212112.705:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 9:21:12 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212112.709:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:21:12 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212407.187:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0923/212407.192:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0923/212407.312:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/212408.461:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:24:08 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212408.564:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:24:08 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212408.565:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:24:08 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212408.573:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 9:24:08 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212408.581:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:24:08 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212409.226:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:24:09 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212409.231:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0923/212409.241:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:24:09 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212409.747:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:24:09 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212409.748:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:24:09 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212539.680:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0923/212539.684:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0923/212539.797:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/212540.729:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:25:40 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212540.820:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:25:40 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212540.821:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:25:40 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212540.828:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 9:25:40 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212540.835:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:25:40 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212541.531:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:25:41 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/212541.537:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0923/212541.553:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:25:41 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/214233.100:WARNING:main_runner.cc(261)] Alloy bootstrap is deprecated and will be removed in ~M127. See https://github.com/chromiumembedded/cef/issues/3685
+[0923/214233.105:WARNING:resource_util.cc(94)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0923/214233.232:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[0923/214234.254:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:42:34 PM] negotiated position encoding: "utf-16"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/214234.352:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:42:34 PM] server initialized!", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/214234.352:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:42:34 PM] trace level: "off"", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/214234.360:INFO:CONSOLE(854)] "Language Server Protocol: [Warn  - 9:42:34 PM] client does not allow didChangeWatchedFiles registration - automatic updating on sourcemap/config changes will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/214234.366:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:42:34 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/globalTypes.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/214235.005:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:42:35 PM] Loading definitions file: C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/214235.010:INFO:CONSOLE(767)] "Failed to read definitions file C:/Users/Owner/AppData/Local/Solaris Luau Language Server/shared/bin/wave.d.luau. Extended types will not be provided", source: http://localhost:6969/assets/index-37431c3a.js (767)
+[0923/214235.018:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:42:35 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/214235.508:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:42:35 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
+[0923/214235.508:INFO:CONSOLE(854)] "Language Server Protocol: [Info  - 9:42:35 PM] loaded configuration for ", source: http://localhost:6969/assets/index-37431c3a.js (854)
